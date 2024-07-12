@@ -1,0 +1,9 @@
+pandas
+xarray
+
+matplotlib
+ipykernel
+ipywidgets
+tqdm
+
+scikit-learn
